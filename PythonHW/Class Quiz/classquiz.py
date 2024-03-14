@@ -124,6 +124,7 @@ class Quiz:
 
     
     def test_progress(self):
+        print("testing")
 #command for confirm answer button, responsible for checking selected answer against correct answer, updating score accordingly, also progresses the quiz 
         
 
